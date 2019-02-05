@@ -1,0 +1,9 @@
+Package: io.okanon.preferenceloadersample
+Name: PreferenceLoader Sample
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: PreferenceLoader sample tweak :)
+Maintainer: okanon <flat.cydia37jins.pc@gmail.com>
+Author: okanon <flat.cydia37jins.pc@gmail.com>
+Section: Tweaks

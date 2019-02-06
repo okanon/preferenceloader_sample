@@ -1,10 +1,12 @@
-# preferenceloader_sample
-theos preferenceloader tweak sample
+# PreferenceLoader Sample
 
-## How to Use
+<p align= "center">
+    <b> PreferenceLoader application in the jailbroken iDevice using <a href="https://github.com/theos/theos">theos</a>. </b>
+</p>
 
-### Linux
-- build [github.com/okanon/cctools-port](https://github.com/okanon/cctools-port) and install __/usr/local/__
-- set cctools-port path
-- using [github.com/theos/theos](https://github.com/theos/theos). 
-- [wiki](https://github.com/theos/theos/wiki/Installation)
+<p align= "center">
+    <sub>Follow me on <a href="https://twitter.com/@cxx_flags">Twitter</a>.</sub>
+</p>
+
+## License
+©︎ 2015-2019 okanon, japan. All rights reserved.
